@@ -92,6 +92,4 @@ export default {
     font-size: 30px;
     color: red;
 }
-
-
 </style>
